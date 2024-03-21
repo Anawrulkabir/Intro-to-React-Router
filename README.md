@@ -13,4 +13,4 @@ Currently, two official plugins are available:
 - https://jsonplaceholder.typicode.com/posts
 
 # Live 
-https://intro-to-react-router-teal.vercel.app/photos
+https://intro-to-react-router-teal.vercel.app
