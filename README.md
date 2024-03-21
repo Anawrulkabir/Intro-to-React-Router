@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 
 # Api 
-https://jsonplaceholder.typicode.com/photos
-https://jsonplaceholder.typicode.com/posts
+- https://jsonplaceholder.typicode.com/photos
+- https://jsonplaceholder.typicode.com/posts
