@@ -11,3 +11,6 @@ Currently, two official plugins are available:
 # Api 
 - https://jsonplaceholder.typicode.com/photos
 - https://jsonplaceholder.typicode.com/posts
+
+# Live 
+https://intro-to-react-router-teal.vercel.app/photos
