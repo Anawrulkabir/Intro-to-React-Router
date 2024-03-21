@@ -45,9 +45,9 @@ const router = createBrowserRouter([
         element: <Photos></Photos>,
       },
       {
-        path: '/photos/:id',
+        path: '/photos/:userId',
         loader: ({ params }) =>
-          fetch(`https://jsonplaceholder.typicode.com/photos/${params.id}`),
+          fetch(`https://jsonplaceholder.typicode.com/photos/${params.userId}`),
         element: <PhotoZoom></PhotoZoom>,
       },
     ],

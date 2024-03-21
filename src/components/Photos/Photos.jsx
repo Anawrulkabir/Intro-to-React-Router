@@ -1,7 +1,8 @@
-import { useLoaderData, Link } from 'react-router-dom'
+import { useLoaderData, Link, useParams } from 'react-router-dom'
 import Photo from '../Photo/Photo'
 const Photos = () => {
   const photos = useLoaderData()
+
   return (
     <div>
       <h1>Photo Galary</h1>

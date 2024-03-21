@@ -1,6 +1,8 @@
-import { Link } from 'react-router-dom'
+import { Link, useParams } from 'react-router-dom'
 const Photo = ({ photo }) => {
   const { url, id, title } = photo
+  const params = useParams()
+  console.log(params)
   return (
     <div>
       <Link to={`/photos/${id}`}>
